@@ -1,0 +1,28 @@
+{
+  "name": "11",
+  "timedTask": [
+    {
+      "taskName": "test1",
+      "url": "https://localhost:44364/api/Test/Get1",
+      "cron": "0/2 * * * * ? ",
+      "type": "get",
+      "description": "taskName≤ªƒ‹÷ÿ∏¥"
+    },
+    {
+      "taskName": "test2",
+      "url": "https://localhost:44364/api/Test/Get2",
+      "cron": "0/2 * * * * ? ",
+      "type": "get",
+      "description": ""
+    },
+    {
+      "taskName": "test3",
+      "url": "https://localhost:44364/api/Test/Get3",
+      "cron": "0/2 * * * * ? ",
+      "type": "get",
+      "description": ""
+    }
+  ]
+}
+
+

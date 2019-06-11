@@ -1,0 +1,9 @@
+D:\公司项目\TimedTask\QuartzJob\bin\Release\netstandard2.0\QuartzJob.deps.json
+D:\公司项目\TimedTask\QuartzJob\bin\Release\netstandard2.0\QuartzJob.dll
+D:\公司项目\TimedTask\QuartzJob\bin\Release\netstandard2.0\QuartzJob.pdb
+D:\公司项目\TimedTask\QuartzJob\obj\Release\netstandard2.0\QuartzJob.csprojAssemblyReference.cache
+D:\公司项目\TimedTask\QuartzJob\obj\Release\netstandard2.0\QuartzJob.csproj.CoreCompileInputs.cache
+D:\公司项目\TimedTask\QuartzJob\obj\Release\netstandard2.0\QuartzJob.AssemblyInfoInputs.cache
+D:\公司项目\TimedTask\QuartzJob\obj\Release\netstandard2.0\QuartzJob.AssemblyInfo.cs
+D:\公司项目\TimedTask\QuartzJob\obj\Release\netstandard2.0\QuartzJob.dll
+D:\公司项目\TimedTask\QuartzJob\obj\Release\netstandard2.0\QuartzJob.pdb

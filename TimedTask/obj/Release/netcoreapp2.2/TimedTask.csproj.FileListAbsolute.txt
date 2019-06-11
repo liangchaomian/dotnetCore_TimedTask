@@ -1,0 +1,15 @@
+D:\公司项目\TimedTask\TimedTask\bin\Release\netcoreapp2.2\TimedTask.deps.json
+D:\公司项目\TimedTask\TimedTask\bin\Release\netcoreapp2.2\TimedTask.runtimeconfig.json
+D:\公司项目\TimedTask\TimedTask\bin\Release\netcoreapp2.2\TimedTask.runtimeconfig.dev.json
+D:\公司项目\TimedTask\TimedTask\bin\Release\netcoreapp2.2\TimedTask.dll
+D:\公司项目\TimedTask\TimedTask\bin\Release\netcoreapp2.2\TimedTask.pdb
+D:\公司项目\TimedTask\TimedTask\obj\Release\netcoreapp2.2\TimedTask.csprojAssemblyReference.cache
+D:\公司项目\TimedTask\TimedTask\obj\Release\netcoreapp2.2\TimedTask.csproj.CoreCompileInputs.cache
+D:\公司项目\TimedTask\TimedTask\obj\Release\netcoreapp2.2\TimedTask.AssemblyInfoInputs.cache
+D:\公司项目\TimedTask\TimedTask\obj\Release\netcoreapp2.2\TimedTask.AssemblyInfo.cs
+D:\公司项目\TimedTask\TimedTask\obj\Release\netcoreapp2.2\TimedTask.dll
+D:\公司项目\TimedTask\TimedTask\obj\Release\netcoreapp2.2\TimedTask.pdb
+D:\公司项目\TimedTask\TimedTask\bin\Release\netcoreapp2.2\Configuration.json
+D:\公司项目\TimedTask\TimedTask\bin\Release\netcoreapp2.2\QuartzJob.dll
+D:\公司项目\TimedTask\TimedTask\bin\Release\netcoreapp2.2\QuartzJob.pdb
+D:\公司项目\TimedTask\TimedTask\obj\Release\netcoreapp2.2\TimedTask.csproj.CopyComplete

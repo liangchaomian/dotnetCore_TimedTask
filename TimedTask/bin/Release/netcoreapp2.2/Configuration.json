@@ -1,0 +1,23 @@
+[
+  {
+    "name": "test1",
+    "url": "https://localhost:44364/api/Test/Get1",
+    "cron": "0/10 * * * * ? ",
+    "type": "get",
+    "description": ""
+  },
+  {
+    "name": "test2",
+    "url": "https://localhost:44364/api/Test/Get2",
+    "cron": "0/10 * * * * ? ",
+    "type": "get",
+    "description": ""
+  },
+  {
+    "name": "test3",
+    "url": "https://localhost:44364/api/Test/Get3",
+    "cron": "0/10 * * * * ? ",
+    "type": "get",
+    "description": ""
+  }
+]
